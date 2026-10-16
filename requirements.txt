@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+pymupdf
+python-docx
+chromadb
+rank-bm25
+fastapi
+sentence-transformers
+langchain-google-genai
+streamlit
