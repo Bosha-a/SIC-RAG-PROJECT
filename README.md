@@ -122,8 +122,7 @@ End_to_End_Project/
 │   ├── __init__.py
 │   └── endpoints.py           # FastAPI routes (/api/status, /api/search, /api/ask, /api/reindex)
 ├── tests/
-│   ├── check_chroma.py        # CLI diagnostic tool to inspect ChromaDB collections
-│   └── check_embedding_model.py # Embedding connection test
+│   └── check_chroma.py        # CLI diagnostic tool to inspect ChromaDB collections
 ├── chroma_db/                 # Persistent on-disk vector store (auto-generated)
 ├── main.py                    # Unified entry point (FastAPI, CLI, and Streamlit launcher)
 ├── streamlit_app.py           # Streamlit Web Application
